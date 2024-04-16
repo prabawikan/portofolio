@@ -414,15 +414,9 @@ Intro
 About
 ================================= */
 
-#about .about-img {
-  height: 600px;
-  overflow: hidden;
-}
-
 #about .about-img img {
   margin-left: -15px;
   max-width: 100%;
-	width: 100%;
 }
 
 @media (max-width: 768px) {
